@@ -1,16 +1,17 @@
-## Hi there 👋
+# NorskJS
+## About Me : I
+### **Names:**
+**Аполо/Apollo** \
+**Норск/Norsk** \
+**Нали/Nali**
+### Languages (Spoken)
+**Русский 🇷🇺** \
+**English 🇬🇧**
+### Languages (Coded)
+**JS (Web и Node)** \
+**HTML** \
+**C++** \
+**C#**
 
-<!--
-**norskjs/norskjs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contact : II
+### W.I.P.
